@@ -9,5 +9,5 @@
 [参考](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 
 ### 有限差分法
-
+- https://github.com/yuu19/finance_calculation/blob/main/fdm.py
 ### モンテカルロ法
